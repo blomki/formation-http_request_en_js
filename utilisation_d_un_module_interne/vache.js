@@ -5,5 +5,4 @@ var message = cowsay.say({
     e: "o0",
     T: "U "
 })
-
 console.log(message);
