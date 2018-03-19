@@ -1,0 +1,106 @@
+ 2224  grep CLUE mystery/crimescene
+ 2225  ls
+ 2226  car hint1
+ 2227  cat hint1
+ 2228  cat hint2
+ 2229  cat hint3
+ 2230  cd mystery
+ 2231  ls
+ 2232  grep Annabel people
+ 2233  cat ../hint7
+ 2234  cat ../hint5
+ 2235  head -n 179 streets/Buckingham_Place | tail -n 1
+ 2236  ls
+ 2237  grep 699607 interviews
+ 2238  head 699607 interviews
+ 2239  head interviews/699607
+ 2240  ls interviews
+ 2241  clear
+ 2242  ls interviews/interview-699607
+ 2243  head interviews/interview-699607
+ 2244  cat ../hint7
+ 2245  grep -A 3 "L337..9" mystery/vehicles | grep "Blue"
+ 2246  grep -A 3 "L337..9" vehicles | grep "Blue"
+ 2247  grep "L337..9" mystery/vehicles | grep "Blue"
+ 2248  grep "L337..9" vehicles
+ 2249  head vehicles
+ 2250  grep -B 3 grep "L337..9" vehicles
+ 2251  grep -A 3 grep "L337..9" vehicles
+ 2252  grep -A 3 "L337..9" vehicles
+ 2253  grep -A 3 "L337..9" vehicles | tail -n 1
+ 2254  grep -A 3 "L337..9" tail -n 1 vehicles
+ 2255  grep -A 3 "L337..9" vehicles
+ 2256  grep -A 3 "L337..9" vehicles | grep -A 2 "Honda"
+ 2257  grep -A 3 "L337..9" vehicles | grep -A 2 "Honda" | grep -A 1  "Blue"
+ 2258  grep -A 3 "L337..9" vehicles | grep -A 2 "Honda" | grep -A 1  "Blue" > ../../suspect.txt
+ 2259  cat ../../suspect.txt
+ 2260  ls
+ 2261  head people
+ 2262  grep "Aron Pilhofer" people
+ 2263  grep "Aron Pilhofer" /membership/Delta_SkyMiles
+ 2264* cd m
+ 2265  ls
+ 2266  grep "Aron Pilhofer" Delta_SkyMiles
+ 2267  grep "Aron Pilhofer" Delta_SkyMiles | "Aron Pilhofer" Museum_of_Bash_History
+ 2268  grep "Aron Pilhofer" Museum_of_Bash_History
+ 2269  head hint8
+ 2270  head hint7
+ 2271  head ../hint7
+ 2272  head ../../hint7
+ 2273  head ../../hint8
+ 2274  ls
+ 2275* grep 
+ 2276  cd ..
+ 2277  ls
+ 2278* 
+ 2279  ls
+ 2280  head people
+ 2281  grep "Aron Pilhofer" people
+ 2282  grep "Aron Pilhofer" people > suspects.txt
+ 2283  head suspects.txt
+ 2284  mv suspects.txt ../suspects.txt
+ 2285  head ../suspects.txt
+ 2286  grep "Heater Billings" people >> ../suspects.txt
+ 2287  head ../suspects.txt
+ 2288  grep "Heater Billings" people
+ 2289  grep "Heather Billings" people >> ../suspects.txt
+ 2290  head ../suspects.txt
+ 2291  grep "Joe Germuska" people >> ../suspects.txt
+ 2292  head ../suspects.txt
+ 2293  grep "Jeremy Bowers" people >> ../suspects.txt
+ 2294  head ../suspects.txt
+ 2295  grep "Jacqui Maher" people >> ../suspects.txt
+ 2296  head ../suspects.txt
+ 2297  grep "Aron Pilhofer" interviews
+ 2298  ls
+ 2299  cat hint/3
+ 2300  cat ../ hint/3
+ 2301  cat ../ hint3
+ 2302  head ../hint3
+ 2303  head ../hint'
+ 2304  head ../hint4
+ 2305  head ../hint5
+ 2306  head -n 145 streets/Clayborne_Street | tail -n 1
+ 2307  ls
+ 2308  head -n 145 streets/Claybourne_Street | tail -n 1
+ 2309  head -n 19 streets/Culbert_Street | tail -n 1
+ 2310  head -n 275 streets/Plainfield_Street | tail -n 1
+ 2311  head -n 284 streets/Dunstable_Road | tail -n 1
+ 2312  head -n 224 streets/Andover_Road | tail -n 1
+ 2313  head interviews
+ 2314  ls
+ 2315  cd interviews
+ 2316  ls
+ 2317  head interview-1767435
+ 2318  head interview-2939888
+ 2319  head interview-29741223
+ 2320  head interview-9620713
+ 2321  head interview-904020
+ 2322  cat ../../hint8
+ 2323  cd ../
+ 2324  cd memberships
+ 2325  ls
+ 2326  cat Terminal_City_Library Museum_of_Bash_History Delta_SkyMiles | grep "Jeremy Bowers"
+ 2327  echo Jeremy Bowers
+ 2328  cd ..
+ 2329  history > history.log
